@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mirkobrombin/go-relay/pkg/broker"
+	"github.com/mirkobrombin/go-relay/v2/pkg/broker"
 )
 
 type Job struct {

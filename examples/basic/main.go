@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mirkobrombin/go-relay/pkg/manager"
+	"github.com/mirkobrombin/go-relay/v2/pkg/manager"
 )
 
 type Notification struct {
